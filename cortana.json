@@ -4,9 +4,7 @@
   "author": "master phooey",
   "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
   "model": "cortana.tflite",
-  "trained_languages": [
-    "en"
-  ],
+  "trained_languages": ["en"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
