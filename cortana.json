@@ -4,7 +4,7 @@
   "author": "Istvan Pinter",
   "website": "https://github.com/fantnhu/micro-wake-word/tree/main/models/",
   "model": "cortana.tflite",
-  "version": 1.5,
+  "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
     "sliding_window_size": 5,
