@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "cortana",
   "author": "Istvan Pinter",
-  "website": "https://github.com/fantnhu/micro-wake-word/tree/main/models/",
+  "website": "https://github.com/morbitangel/friendly-doodle/tree/main/",
   "model": "cortana.tflite",
   "version": 2,
   "micro": {
