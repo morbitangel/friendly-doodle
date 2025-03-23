@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "hey friday",
   "author": "NathanCu@community.home-assistant.io",
-  "website": "https://github.com/JohnnyPrimus/Custom_V2_MicroWakeWords",
+  "website": "https://github.com/morbitangel/friendly-doodle/tree/main/",
   "model": "hey_friday.tflite",
   "version": 2,
   "micro": {
